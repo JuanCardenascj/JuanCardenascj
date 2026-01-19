@@ -14,8 +14,8 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Java | C++  
-- 🔧 &nbsp;  Visual Studio code | Eclipse | Git
+- 💻 &nbsp; Python | HTML | CSS  
+- 🔧 &nbsp;  Visual Studio code | Git
 
   <br>
 
