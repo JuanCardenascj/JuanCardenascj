@@ -1,9 +1,6 @@
-}
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B79A1,100:283E51&height=200&section=header&text=Juan%20David%20Cárdenas&fontSize=40&fontColor=ffffff"/>
 </p>
-
-![Profile views](https://komarev.com/ghpvc/?username=JuanCardenasCj&color=blue&style=for-the-badge)
 
 # 👋 Hola, soy Juan David Cárdenas
 
@@ -42,7 +39,6 @@ PHP
 ### Base de datos
 
 MySQL
-PhpMyAdmin
 MongoDB
 
 ### Herramientas
@@ -52,31 +48,19 @@ GitHub
 VSCode
 Eclipse
 
-### Ingeniería de Software
-
-- UML  
-- Arquitectura MVC  
-- Patrones de diseño  
-  - Factory  
-  - Observer  
-  - Strategy  
-- Metodologías ágiles  
-  - Scrum  
-  - Kanban  
-
 ---
 
 # 📊 Estadísticas de GitHub
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanCardenasCj&show_icons=true&theme=tokyonight)
+GitHub stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanCardenasCj&layout=compact&theme=tokyonight)
+Top Langs
 
 ---
 
 # ⚡ Actividad
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JuanCardenasCj&theme=tokyo-night)
+GitHub Activity Graph
 
 ---
 
@@ -102,4 +86,4 @@ Convertirme en Ingeniero de Software especializado en backend y arquitectura de 
 # 📫 Contacto
 
 📧 Email: jdcj123@hotmail.com  
-💼 LinkedIn: próximamente!
+💼 LinkedIn: próximam
