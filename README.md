@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B79A1,100:283E51&height=200&section=header&text=Juan%20David%20Cárdenas&fontSize=40&fontColor=ffffff"/>
 </p>
 
-![Profile views](https://komarev.com/ghpvc/?username=TUUSUARIO&color=blue&style=for-the-badge)
+![Profile views](https://komarev.com/ghpvc/?username=JuanCardenasCj&color=blue&style=for-the-badge)
 
 # 👋 Hola, soy Juan David Cárdenas
 
