@@ -76,7 +76,7 @@ Eclipse
 
 # ⚡ Actividad
 
-GitHub Activity Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JuanCardenasCj&theme=tokyo-night)
 
 ---
 
