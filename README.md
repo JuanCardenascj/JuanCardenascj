@@ -20,7 +20,7 @@ He trabajado en proyectos académicos desarrollando sistemas completos con backe
 # 👨‍💻 Sobre mí
 
 - 🎓 Estudiante de Ingeniería de Software  
-- 💻 Desarrollo aplicaciones web con PHP, JavaScript y MySQL  
+- 💻 Desarrollo aplicaciones web con PHP, Python, JavaScript y MySQL  
 - 🧠 Me interesa la arquitectura de software y el backend  
 - ⚙️ Trabajo con MVC, UML y patrones de diseño  
 - 📚 Siempre aprendiendo nuevas tecnologías  
@@ -34,17 +34,21 @@ He trabajado en proyectos académicos desarrollando sistemas completos con backe
 HTML
 CSS
 JavaScript
+Python
 PHP
 
 ### Base de datos
 
 MySQL
+PhpMyAdmin
+MongoDB
 
 ### Herramientas
 
 Git
 GitHub
 VSCode
+Eclipse
 
 ### Ingeniería de Software
 
@@ -95,5 +99,5 @@ Convertirme en Ingeniero de Software especializado en backend y arquitectura de 
 
 # 📫 Contacto
 
-📧 Email: tu_correo@email.com  
-💼 LinkedIn: próxima
+📧 Email: jdcj123@hotmail.com  
+💼 LinkedIn: próximamente!
