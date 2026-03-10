@@ -1,21 +1,19 @@
-<h2> Hey there! I'm Juan David. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+💻 Estudiante de Ingeniería de Software (6º semestre) apasionado por el desarrollo web y la creación de soluciones tecnológicas que resuelvan problemas reales.
 
-<h3> 👨🏻‍💻 About Me </h3>
+Tengo experiencia en el desarrollo de aplicaciones web utilizando HTML, CSS, JavaScript y PHP, trabajando con bases de datos MySQL y entornos de desarrollo locales. Me interesa especialmente la arquitectura de software, el diseño de sistemas y la aplicación de buenas prácticas de programación.
 
-- 🔭 &nbsp; I’m currently learning  Application Development
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Engineer Software, computer programming and Mathematics.
-- 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
-- ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
-- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress.
-- ✍️ &nbsp; League of legends player - Nick: Junag
+He trabajado en proyectos académicos aplicando arquitectura MVC y patrones de diseño como Factory, Observer y Strategy, además de modelado de software mediante UML. También tengo experiencia trabajando con metodologías ágiles como Scrum y Kanban para la organización y desarrollo de proyectos.
 
-<h3>🛠 Tech Stack</h3>
+Actualmente desarrollo sistemas web completos que incluyen autenticación de usuarios, paneles de administración, gestión de datos y conexión con bases de datos. Me interesa seguir aprendiendo sobre desarrollo backend, arquitectura de software y tecnologías modernas para construir aplicaciones escalables y eficientes.
 
-- 💻 &nbsp; Python | HTML | CSS  
-- 🔧 &nbsp;  Visual Studio code | Git
+🚀 Tecnologías y herramientas:
+- HTML
+- CSS
+- JavaScript
+- PHP
+- MySQL
+- UML
+- MVC
+- Git & GitHub
 
-  <br>
-
-⭐️ From [JuanCarDevs](https://github.com/JuanCardenascj)
+📚 Siempre aprendiendo, mejorando mis habilidades y construyendo proyectos que me permitan crecer como ingeniero de software.
