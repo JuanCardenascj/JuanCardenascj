@@ -1,16 +1,15 @@
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B79A1,100:283E51&height=200&section=header&text=Juan%20David%20Cárdenas&fontSize=40&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B79A1,100:283E51&height=200&section=header&text=Juan%20David%20Cárdenas&fontSize=40&fontColor=ffffff"/>
 </p>
 
-<h1 align="center">Hola 👋, soy Juan David Cárdenas</h1>
+<h1 align="center">👋 Hola, soy Juan David Cárdenas</h1>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?lines=Ingeniero+de+Software+en+formación;Backend+Developer;Apasionado+por+la+programación;Siempre+aprendiendo+nuevas+tecnologías&center=true&width=500&height=50">
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=JuanCardenasCj&label=Visitas%20al%20perfil&color=blue&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=JuanCardenasCj&label=Visitas%20al%20perfil&color=blue&style=for-the-badge"/>
 </p>
 
 ---
@@ -19,9 +18,9 @@
 
 🎓 Estudiante de Ingeniería de Software (6º semestre)  
 💻 Apasionado por el desarrollo web y la arquitectura de software  
-🚀 Interesado en backend, sistemas y diseño de software  
+🚀 Interesado en backend, desarrollo de sistemas y arquitectura de software
 
-Me gusta construir aplicaciones web funcionales y bien estructuradas, aplicando principios de ingeniería de software, arquitectura MVC y patrones de diseño.
+Me gusta construir aplicaciones web funcionales, aplicando principios de ingeniería de software, arquitectura MVC y patrones de diseño.
 
 ---
 
@@ -35,7 +34,7 @@ JavaScript
 Python
 PHP
 
-### Base de datos
+### Bases de datos
 
 MySQL
 MongoDB
@@ -61,7 +60,7 @@ Eclipse
 
 ---
 
-# ⚡ Actividad
+# ⚡ Actividad en GitHub
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=JuanCardenasCj&theme=tokyo-night"/>
@@ -71,27 +70,29 @@ Eclipse
 
 # 🧩 Proyectos
 
-♻️ Sistema de Gestión de Residuos  
-Sistema web para gestionar solicitudes de recolección de residuos con registro de usuarios y sistema de puntos.
+### ♻️ Sistema de Gestión de Residuos
+Aplicación web para gestionar solicitudes de recolección de residuos con registro de usuarios y sistema de puntos.
 
-🔐 Sistema de Gestión de Armas Incautadas  
-Sistema desarrollado con PHP y MySQL con múltiples entidades y operaciones CRUD.
+### 🔐 Sistema de Gestión de Armas Incautadas
+Sistema desarrollado con PHP y MySQL, con base de datos relacional y operaciones CRUD.
 
-🧠 Proyectos de Ingeniería de Software  
-Aplicación de UML, arquitectura MVC y patrones de diseño en proyectos académicos.
+### 🧠 Proyectos de Ingeniería de Software
+Modelado de sistemas utilizando UML, aplicación de patrones de diseño y arquitectura MVC.
 
 ---
 
 # 🎯 Objetivo
 
-Convertirme en Ingeniero de Software especializado en backend y arquitectura de software, desarrollando sistemas escalables y eficientes.
+Convertirme en Ingeniero de Software especializado en backend y arquitectura de software, desarrollando sistemas escalables, eficientes y bien estructurados.
+
+---
+
+# 🐍 Contribuciones
+
+Snake animation
 
 ---
 
 # 📫 Contacto
 
-📧 Email: jdcj123@hotmail
-
-## 🐍 Contribuciones
-
-![Snake animation](https://github.com/JuanCardenasCj/JuanCardenasCj/blob/output/github-contribution-grid-snake.svg)
+📧 Email: jdcj123@hotma
