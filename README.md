@@ -91,3 +91,7 @@ Convertirme en Ingeniero de Software especializado en backend y arquitectura de 
 # 📫 Contacto
 
 📧 Email: jdcj123@hotmail
+
+## 🐍 Contribuciones
+
+![Snake animation](https://github.com/JuanCardenasCj/JuanCardenasCj/blob/output/github-contribution-grid-snake.svg)
